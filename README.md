@@ -6,6 +6,9 @@ This problem becomes to demanding on proccesing power for pure "brute force" met
 
 In this project I tried to reduce the path to minimum, while time needed to calculate the path remains reasonable.
 
+
+<img src="https://raw.githubusercontent.com/KrHo129/Python-traveling_salesman_problem/master/Visual%20representation%20of%20connection%20points%20by%20this%20algoritm.png" alt="example_image"/>
+
 __________________________________________________
 50.000 points got processed in 33min on ryzen5 1600+ procesor, while it took 1h 11min on my intel i3 2330m procesor (this include time for generating points).
 
